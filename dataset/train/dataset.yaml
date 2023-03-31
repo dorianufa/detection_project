@@ -1,0 +1,5 @@
+names:
+- mashina
+nc: 1
+path: /content/dataset/train
+val: ./images/val/
