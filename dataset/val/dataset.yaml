@@ -1,0 +1,5 @@
+names:
+- mashina
+nc: 1
+path: /content/dataset/val
+val: ./images/val/
